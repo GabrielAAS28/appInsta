@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
@@ -82,3 +83,7 @@ To learn more about React Native, take a look at the following resources:
 # appInsta
 Aplicativo simulando tela de feed o instagram
 >>>>>>> eae8b615a0a3dc506c063bb8121469737b3cf057
+=======
+# appInsta
+App da tela inicial do Instagram
+>>>>>>> 59dd01e2a92ce2ca5c7a17418004ddeac83792f7
